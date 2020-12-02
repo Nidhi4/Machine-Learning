@@ -1,4 +1,4 @@
-# Preduct Future Product Prices using Facebook Prophet
+# Predict Future Product Prices using Facebook Prophet
 
 - FB Prophet is an open source tool developed by Facebook's core Data Science team.
 - It is used for forecasting time series data.
